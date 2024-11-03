@@ -11,6 +11,6 @@ this is a web application that has deployed in AWS using aws amplify, api gatewa
 ## The Deployment Architecture
   ![Deployment Architecture](ArchitectureDeployment.png)
 ## The App in Action
-  ![the app in action](AppInAction.png)
+  ![the app in action](App%20In%20Action)
 
 
