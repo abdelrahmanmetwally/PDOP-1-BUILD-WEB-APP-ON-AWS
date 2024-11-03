@@ -13,4 +13,7 @@ this is a web application that has deployed in AWS using aws amplify, api gatewa
 ## The App in Action
   ![the app in action](App%20In%20Action)
 
+### References :
+- This project from Tiny Technical Tutorials:
+  https://www.youtube.com/watch?v=7m_q1ldzw0U&list=PLwyXYwu8kL0wMalR9iXJIPfiMYWNFWQzx
 
