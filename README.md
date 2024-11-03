@@ -8,7 +8,9 @@ this is a web application that has deployed in AWS using aws amplify, api gatewa
 - Dynamodb used to store the result of lambda function.
 - A permission has been added to lambda function to store the result of the function in dynamodb.
 
-  ![Deployment Architecture]()
-
+## The Deployment Architecture
+  ![Deployment Architecture](ArchitectureDeployment.png)
+## The App in Action
+  ![the app in action](AppInAction.png)
 
 
